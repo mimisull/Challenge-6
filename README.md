@@ -3,7 +3,7 @@ The Directory for this respoitory is:
 [Summary](https://github.com/mimisull/Challenge-6/blob/main/README.md)
 [Code](https://github.com/mimisull/Challenge-6/blob/main/san_francisco_housing.ipynb)
 
-**FinTech Consulting for Credit Union**
+**Proptech Consulting for SF realestate**
 
 Specifically, I am building a tool to offer an instant, one-click service for people to buy properties and then rent them. My company wants to have a trial of this offering in the San Francisco real-estate market. If the service proves popular, they can then expand to other markets.
 
